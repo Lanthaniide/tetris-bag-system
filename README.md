@@ -1,2 +1,2 @@
-# tetris-bag-system
-tetris 7-mino bag system written in python
+# tetris-system
+tetris 7-mino bag system, SRS kicktable system written in python
